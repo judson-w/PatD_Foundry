@@ -10,7 +10,7 @@ Known issues:
 - Leveling up to level 9 or 10 breaks the sheet. The console throws an error stating "expected identifier '$' SyntaxError: Unexpected identifier '$'" Once that happens, the sheet is broken even if you reload the template to it. The error message does not give more specifics as to where that errant $ is, and there are a lot of them so there is some digging required.
 
 Things to do:
-- Implement the drop downs for pulling in Supers and the relavent Super information.
+- Implement the drop downs for pulling in Supers and the relevant Super information.
 - Implement the Forms specifica information on the stances.
 - Implement the Style Unique Action list for when Focused Phantom is selected.
 - Implement the Elder Style and Frantic Phantom list of all Unique Actions.
